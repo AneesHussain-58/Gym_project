@@ -1,0 +1,52 @@
+.cards_data{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 0 2rem;
+}
+.card_header{
+    display: flex;
+    gap: 5rem;
+    font-weight: bold;
+    font-size: 3rem;
+    justify-content: center;
+    font-style: italic;
+}
+.cards{
+    display: flex;
+    gap: 1rem;
+}
+.display_data{
+    display: flex;
+    flex-direction: column;
+    background-color: var(--gray);
+    padding: 2rem;
+    gap: 1rem;
+    color: white;
+    justify-content: space-between;
+}
+.display_data>:nth-child(1){
+    width: 2rem;
+    height: 2rem;
+    fill: white;
+}
+.display_data>:nth-child(2){
+    font-size: 1rem;
+    font-weight: bold;
+}
+.display_data>:nth-child(3){
+    font-size: 0.9rem;
+    line-height: 25px;
+}
+.card_display{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+.card_display>img{
+    width: 1rem;
+}
+.display_data:hover{
+    cursor: pointer;
+    background: var(--planCard);
+}

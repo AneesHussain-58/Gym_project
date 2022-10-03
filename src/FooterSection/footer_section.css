@@ -1,0 +1,50 @@
+.footer_section{
+    display: flex;
+    padding: 0 2rem;
+    gap: 10rem;
+}
+.left-footer>hr{
+    position: absolute;
+    border: 2px solid var(--orange);
+    width: 10.5rem;
+    border-radius: 20%;
+    margin: -10px 0;
+}
+.left-footer{
+    font-size: 3rem;
+    color: white;
+    font-weight: bold;
+    position: relative;
+}
+.left-footer>div{
+    display: flex;
+    gap: 1rem;
+}
+
+/* Right footer */
+.right-footer{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.email_address{
+    display: flex;
+    gap: 0.5rem;
+    background-color: gray;
+    padding: 1rem 2rem;
+}
+.email_address>input{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: var(--lightgray);
+}
+::placeholder{
+    color: var(--lightgray);
+}
+.btn-footer{
+    background-color: var(--orange);
+}
+.email_address>input, .email_address>button{
+    top: 2rem;
+}
