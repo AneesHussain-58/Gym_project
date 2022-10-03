@@ -1,3 +1,9 @@
+# About Project
+<li> This Project is made using HTML, CSS, JavaScript and ReactJS </li>
+<li> This Project utilizes Hooks, and third party libraries </li>
+<li> The Libraries used in this project are emailjs for Sending Emails, frame-motion for object movement </li>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +74,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Screenshots of Project
+
+<img src="https://github.com/anees-hussain5/Gym_project/blob/master/Project%20Screen%20Shot/ss01.png">
+
+<img src="https://github.com/anees-hussain5/Gym_project/blob/master/Project%20Screen%20Shot/ss02.png">
+
+<img src="https://github.com/anees-hussain5/Gym_project/blob/master/Project%20Screen%20Shot/ss03.png">
+
+<img src="https://github.com/anees-hussain5/Gym_project/blob/master/Project%20Screen%20Shot/ss04.png">
+
+<img src="https://github.com/anees-hussain5/Gym_project/blob/master/Project%20Screen%20Shot/ss05.png">
+
+<img src="https://github.com/anees-hussain5/Gym_project/blob/master/Project%20Screen%20Shot/ss06.png">
+
+<img src="https://github.com/anees-hussain5/Gym_project/blob/master/Project%20Screen%20Shot/ss07.png">
+
+<img src="https://github.com/anees-hussain5/Gym_project/blob/master/Project%20Screen%20Shot/ss08.png">
+
+<img src="https://github.com/anees-hussain5/Gym_project/blob/master/Project%20Screen%20Shot/ss09.png">
+
+<img src="https://github.com/anees-hussain5/Gym_project/blob/master/Project%20Screen%20Shot/ss010.png">
+
+<img src="https://github.com/anees-hussain5/Gym_project/blob/master/Project%20Screen%20Shot/ss011.png">
